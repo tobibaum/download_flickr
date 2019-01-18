@@ -1,1 +1,3 @@
 python_flickr
+oauth2client
+
